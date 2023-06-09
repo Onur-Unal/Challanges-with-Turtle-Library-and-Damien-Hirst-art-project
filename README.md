@@ -1,0 +1,1 @@
+This project includes various challanges using Turtle library and a Damien Hirst's spots art project.
